@@ -12,3 +12,5 @@
  #   contador de victorias y derrotas.
  # - Puedes añadirle todas las funcionalidades extra que consideres.
 
+tabla = [7][6]
+fichaRoja,fichaNegra = 20,20;
